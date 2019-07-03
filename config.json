@@ -1,0 +1,5 @@
+{
+	"token": "2a59495e89534508bf595ce5431c50a7",
+	"weather_api_key": "94b7c9a9908d65670675b7edd72079fc",
+	"weather_api_url": "http://api.openweathermap.org/data/2.5/forecast/daily?mode=json&units=metric"
+}
